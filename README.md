@@ -40,3 +40,5 @@ See [npm scripts](https://github.com/vuejs/vuex/blob/master/package.json#L11-L15
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+## custom commit
